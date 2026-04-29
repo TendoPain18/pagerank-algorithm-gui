@@ -18,7 +18,7 @@ This project implements the PageRank algorithm from scratch, faithfully replicat
 </div>
 <br>
 <div align="center">
-  <a href="https://codeload.github.com/TendoPain18/pagerank-visualizer/legacy.zip/main">
+  <a href="https://codeload.github.com/TendoPain18/pagerank-algorithm-gui/legacy.zip/main">
     <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Files" style="height: 50px;"/>
   </a>
 </div>
@@ -93,8 +93,8 @@ numpy
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/TendoPain18/pagerank-visualizer.git
-cd pagerank-visualizer
+git clone https://github.com/TendoPain18/pagerank-algorithm-gui.git
+cd pagerank-algorithm-gui
 ```
 
 2. **Install dependencies**
@@ -153,7 +153,7 @@ Feel free to open issues or pull requests for improvements such as additional la
 
 <br>
 <div align="center">
-  <a href="https://codeload.github.com/TendoPain18/pagerank-visualizer/legacy.zip/main">
+  <a href="https://codeload.github.com/TendoPain18/pagerank-algorithm-gui/legacy.zip/main">
     <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Files" style="height: 50px;"/>
   </a>
 </div>
