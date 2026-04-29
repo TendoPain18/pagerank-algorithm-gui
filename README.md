@@ -146,10 +146,6 @@ See `requirements.txt` for the full list. Key dependencies:
 
 Feel free to open issues or pull requests for improvements such as additional layout algorithms, animated convergence, or export features.
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - PageRank algorithm: Brin & Page, "The Anatomy of a Large-Scale Hypertextual Web Search Engine" (1998)
