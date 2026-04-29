@@ -12,7 +12,7 @@ This project implements the PageRank algorithm from scratch, faithfully replicat
 
 <br>
 <div align="center">
-  <a href="https://YOUR-STREAMLIT-APP-LINK.streamlit.app/">
+  <a href="https://pagerank-algorithm-gui.streamlit.app/">
     <img src="https://img.shields.io/badge/Try-Interactive_Simulator-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App" style="height: 50px;"/>
   </a>
 </div>
